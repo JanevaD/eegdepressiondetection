@@ -15,4 +15,4 @@ Run
 ```
 depressiondetection.py
 ```
-In ```.edf``` file you can find examples of eeg signals in .edf format. Test the system as shown in the video.
+In ```.edf examples``` file you can find examples of eeg signals in .edf format. Test the system as shown in the video.
