@@ -16,3 +16,7 @@ Run
 depressiondetection.py
 ```
 In ```.edf examples``` file you can find examples of eeg signals in .edf format. Test the system as shown in the video.
+
+# Reference
+D. Janeva, S. Markovska-Simoska, B. Gerazov. "A system for automatic detection of major depressive disorder based on brain activity", ETAI, 2021.
+
